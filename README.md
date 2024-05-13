@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:13/05/2024
 ## Register Number:212223220073
-## Name:
+## Name:PAVITHRA S
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
