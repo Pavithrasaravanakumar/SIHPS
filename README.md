@@ -23,11 +23,11 @@ Environment Conserving resource promoting a healthier and safer world. By reduci
 
 
 ## Technology Stack
-1.Frontend Development
-2.Backend Development
-3.Geolocation Services
-4.User Authentication and Management
-5.Educational Pop-ups
+1.Frontend Development<br>
+2.Backend Development<br>
+3.Geolocation Services<br>
+4.User Authentication and Management<br>
+5.Educational Pop-ups<br>
 
 ## Dependencies
 Dependencies in e-waste management refer to the interconnected factors that influence the effectiveness and success of e-waste management initiatives.
