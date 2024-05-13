@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
+# Date:13/05/2024
+## Register Number:212223220073
 ## Name:
 ## Problem Title
 E-Waste Facility Locator
@@ -10,12 +10,16 @@ Website that tells you the location of the nearest e-waste collection and recycl
 Ministry of Environment
 
 ## Idea
+E-waste management plays an important role in protecting :
 
+Environment Conserving resource promoting a healthier and safer world. By reducing, reusing, and recycling electronic devices, we can make a positive impact and pave the way for a sustainable future.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/Pavithrasaravanakumar/SIHPS/assets/150664013/680c0282-e21f-4742-b1e9-0a036e05e9d4)
 
 
 ## Use Cases
+![SIH](https://github.com/Pavithrasaravanakumar/SIHPS/assets/150664013/356ec419-f297-4918-abaa-449d26b71287)
 
 
 ## Technology Stack
